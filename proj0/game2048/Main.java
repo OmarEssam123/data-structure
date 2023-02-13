@@ -8,7 +8,7 @@ import ucb.util.CommandArgs;
  *  @author P. N. Hilfinger
  */
 public class Main {
-
+//asda
     /** Number of squares on the side of a board. */
     static final int BOARD_SIZE = 4;
     /** Probability of choosing 2 as random tile (as opposed to 4). */
